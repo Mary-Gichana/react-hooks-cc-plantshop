@@ -42,6 +42,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Orchid",
+      "image": "https://www.thespruce.com/thmb/aPavyf2CWrGZpyZieNEYAVgNpxM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cattleya-orchids-overview-1902861-04-f8f0a3d3ba76498b9f76a1d05ba65892.jpg",
+      "price": "0.19",
+      "id": 8
     }
   ]
 }
